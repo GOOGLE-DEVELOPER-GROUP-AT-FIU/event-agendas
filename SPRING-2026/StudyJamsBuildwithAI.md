@@ -6,8 +6,8 @@
 ---
 
 ## 🗓 Weekly Schedule
-- **Monday:** ~~5:00 – 6:00 PM EST~~  **6:00 – 7:00 PM EST**  
-- **Wednesday:** ~~4:00 – 5:00 PM EST~~ **6:00 – 7:00 PM EST**  
+- **Monday:** ~~5:00 – 6:00 PM EST~~  New time:  **6:00 – 7:00 PM EST**  
+- **Wednesday:** ~~4:00 – 5:00 PM EST~~  New time: **6:00 – 7:00 PM EST**  
 - **Saturday:** 2:00 – 5:00 PM EST  
 
 You can attend **any session** — no limit.  
