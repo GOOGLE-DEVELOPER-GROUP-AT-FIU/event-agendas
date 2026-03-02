@@ -5,7 +5,9 @@
 
 The **Solution Challenge** is a **global Google competition** where student teams identify a **real-world problem** and build an **innovative solution using Google technologies**.  
 **No prior experience required** — both **technical and non-technical students** are encouraged to participate.
+<div style="height:600px;"></div>
 
+![Event Banner](https://github.com/user-attachments/assets/04f2b687-c7a5-48e8-ac8c-59452bfe02fa)
 ---
 
 ## 🌍 What Is the Solution Challenge?
