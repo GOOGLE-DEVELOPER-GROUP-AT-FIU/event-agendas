@@ -166,4 +166,4 @@ Official Google learning resources used during Study Jams:
 
 ## 📅 Full Agenda & Weekly Schedule
 View the full, up-to-date **Study Jams agenda**, workshops, and weekly schedule here:  
-👉 https://github.com/user-attachments/assets/04f2b687-c7a5-48e8-ac8c-59452bfe02fa
+👉 https://github.com/GOOGLE-DEVELOPER-GROUP-AT-FIU/event-agendas/blob/cdf3ab543b93df259fbd1fff9dff4c1b6dad7a89/SPRING-2026/solutionchallege2026.md
