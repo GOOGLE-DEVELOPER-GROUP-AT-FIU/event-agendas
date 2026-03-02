@@ -79,9 +79,9 @@ Solutions may use tools such as **Gemini API, Firebase, Vertex AI, BigQuery, Goo
 **Mondays, Wednesdays & Saturdays**
 
 **Session Times (EST):**
-- **Monday:** 5:00 – 7:00 PM  
-- **Wednesday:** 5:00 – 7:00 PM  
-- **Saturday:** 2:00 – 5:00 PM  
+- **Monday:** 6:00 – 7:00 PM  
+- **Wednesday:** 6:00 – 7:00 PM  
+- **Saturday:** 2:00 – 6:00 PM  
 
 **In-Person Location:**  
 **FIU Everglades Hall**  
