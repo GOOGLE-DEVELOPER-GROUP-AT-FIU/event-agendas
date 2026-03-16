@@ -1,71 +1,38 @@
-# Raspberry Pi Workshop Series: Getting Started with Raspberry Pi (Mar 11 - Apr 11)
-## Hosted by Google Developer Group at FIU (GDG at FIU)
+# C4 | Raspberry Pi Workshop Series: Getting Started with Raspberry Pi (Mar 11 - Apr 11)
+## Hosted by CodeCrunch WorldWide in collaboration with Google Developer Group at FIU (GDG at FIU)
 
 🌟 **OPEN TO ANY MAJOR — NO EXPERIENCE REQUIRED — AT NO COST** 🌟
 
 ---
 
-## 🗓 Weekly Schedule
-- **Wednesday:** **6:00 – 7:00 PM EST**
+## About the series
 
-This is a **weekly beginner-friendly workshop series** designed to help students explore the Raspberry Pi ecosystem step by step.
-You can join even if this is your **first time touching a Raspberry Pi**.
+This repository contains materials for the **Raspberry Pi Foundations** workshop series.
 
----
+The goal is to help beginners get comfortable with the basics of physical computing by learning step by step through guided activities, simple programming, and small hands-on projects.
 
-## Overview
-We’re launching an **in-person Raspberry Pi workshop series** where students and the tech community can learn how to:
-- Set up and use a Raspberry Pi
-- Navigate Linux basics through hands-on practice
-- Explore remote access, the terminal, Python, and electronics
-- Build confidence for future hardware and software projects
+This series is designed to feel approachable:
+- no prior Raspberry Pi experience required
+- beginner-friendly workshop style
+- short, guided activities
+- learn while building
+- hands-on and low pressure
 
-This series is meant to be **practical, welcoming, and beginner-first**.
-Each Wednesday, we will build on core concepts and gradually move into more hands-on applications.
+## Updates, event details, and access info
+See: **https://codecrunchworldwide.vercel.app**
 
----
+## Workshop roadmap
 
-## 📍 In-Person Sessions (FIU Campus)
+### Week 1 — Device Setup + First Sounds
+Set up the device, get familiar with the environment, and make the hardware respond by playing simple songs.
 
-**Location:**  
-**FIU Everglades Hall**  
-**1st Floor – MPR**
+Unit 1 Resources here: https://github.com/Raspberry-Pi-Code-Crunch-Worldwide/C4-RASPBERRYPI-FOUNDATIONS/tree/main/SPRING-2026/UNIT-1
 
-Use the **MyFIU app maps** or check our **Instagram** for step-by-step directions.
+### Week 2 — Buttons, LEDs, and a Mini Interactive Project
+Build on the setup from Week 1 by using inputs and outputs to make a simple beginner-friendly interactive activity.
 
----
-
-## 🗓 Weekly Agenda
-
-**Week 01 | Mar 09 – Mar 15**  
-- Wednesday  
-- **Workshop: Getting Started with Raspberry Pi**
-- Topics for this first session:
-  - Introducing Raspberry Pi
-  - Setting Up Your Raspberry Pi
-  - Remote Access
-  - Basic Tasks
-  - Explore the Terminal
-  - Connect to Electronics
-  - Program with Python
-  - Maintenance
-
-**Week 02 | Mar 16 – Mar 22**  
-- Wednesday  
-- **Topic: Stay tuned**
-
-**Week 03 | Mar 23 – Mar 29**  
-- Wednesday  
-- **Topic: Stay tuned**
-
-**Week 04 | Mar 30 – Apr 05**  
-- Wednesday  
-- **Topic: Stay tuned**
-
-**Week 05 | Apr 06 – Apr 11**  
-- Wednesday  
-- **Topic: Stay tuned**
-
+### Next weeks
+- Stay tuned for more workshops
 ---
 
 ## What You’ll Do
