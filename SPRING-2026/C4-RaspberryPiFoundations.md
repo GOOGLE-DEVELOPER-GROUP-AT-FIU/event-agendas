@@ -1,5 +1,5 @@
 # C4 | Raspberry Pi Workshop Series: Getting Started with Raspberry Pi (Mar 11 - Apr 11)
-## Hosted by CodeCrunch WorldWide in collaboration with Google Developer Group at FIU (GDG at FIU)
+**Hosted by CodeCrunch WorldWide in collaboration with Google Developer Group at FIU (GDG at FIU)**
 
 🌟 **OPEN TO ANY MAJOR — NO EXPERIENCE REQUIRED — AT NO COST** 🌟
 
