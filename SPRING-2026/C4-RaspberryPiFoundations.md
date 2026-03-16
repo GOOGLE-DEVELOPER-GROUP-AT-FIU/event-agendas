@@ -3,8 +3,6 @@
 
 🌟 **OPEN TO ANY MAJOR — NO EXPERIENCE REQUIRED — AT NO COST** 🌟
 
----
-
 ## About the series
 
 This repository contains materials for the **Raspberry Pi Foundations** workshop series.
