@@ -17,7 +17,8 @@ This series is designed to feel approachable:
 - hands-on and low pressure
 
 ## Updates, event details, and access info
-See: **https://codecrunchworldwide.vercel.app**
+See: **https://codecrunch-calendar.vercel.app**
+Filter by event (hackathons, workshops or so) to get information about the time and location.
 
 ## Workshop roadmap
 
