@@ -2,8 +2,8 @@
 
 **Date:** Friday, April 24  
 **Time:** 10:00 AM – 5:00 PM (EST)  
-**Location:** FIU Business Complex — CBC 155  
-**Parking:** FIU Parking Lot 9  
+**Location:** FIU Modesto Campus - Building and room coming soon
+**Parking:** FIU Parking multiple locations
 
 Event Agenda: DevFestMiami2025.vercel.app  
 Photo Album: devfestmiami2025-album.vercel.app  
