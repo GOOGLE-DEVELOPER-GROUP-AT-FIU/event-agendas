@@ -1,6 +1,7 @@
 # Event Agenda
 
-## Pulse Foundry Miami × Hack University × Google Developer Group @ FIU × Vercel
+## [Pulse Foundry Miami](https://pulsefoundry.ai) × [Hack University](https://hackuniversity.vercel.app) × [Google Developer Group at Florida International University (GDG at FIU)](https://gdgatfiu.vercel.app) × [Vercel](https://vercel.com)
+
 ### AI Hackathon with MaRe — A Real Health & Wellness Business Partner
 
 **Location:** The DOCK Miami / The LAB Miami  
@@ -42,6 +43,7 @@ https://luma.com/3in7vwyo
 - Judging criteria
 - Available resources (mentors and credits)
 - Overview of the MaRe business challenge context
+- Google Cloud credits available for builders (supported by GDG at FIU)
 
 ---
 
@@ -71,6 +73,17 @@ Topics may include:
 - Transitioning from consulting to product development
 - Building as a solo technical founder
 - Designing tools businesses actually adopt
+
+
+## Build with AI Participation Recognition
+
+Showcase your participation through the **Google Developer Program Build with AI badges**.
+
+Participants may be eligible to highlight their engagement using official participation badges through the Google Developer ecosystem.
+
+Badge preview:
+
+<img src="https://github.com/user-attachments/assets/da4f35bd-62cf-431c-b8c5-d646bd3bc2b9" width="600">
 
 ---
 
@@ -115,6 +128,7 @@ Teams begin developing:
 **Sponsor resources available**
 
 - Vercel deployment credits
+- Google Cloud credits (supported by GDG at FIU)
 
 ---
 
