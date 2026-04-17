@@ -25,14 +25,15 @@ https://luma.com/3in7vwyo
 
 ---
 
-## 10:00 – 10:20 AM
-### Welcome & Opening Remarks
+## 10:00 – 10:40 AM
+### Welcome & Opening Remarks + Lightning Talks
 
 **Hosted by**
 
 - Pulse Foundry Miami
 - Hack University
 - Google Developer Group @ FIU
+- MaRe (Marianna & Rebecca)
 
 **Topics**
 
@@ -40,10 +41,10 @@ https://luma.com/3in7vwyo
 - Hackathon structure
 - Judging criteria
 - Available resources (mentors and credits)
+- Overview of the MaRe business challenge context
 
 ---
 
-## 10:20 – 10:30 AM
 ### Lightning Talk  
 **Building AI Solutions that Drive Business Value**
 
@@ -59,7 +60,6 @@ Topics may include:
 
 ---
 
-## 10:30 – 10:40 AM
 ### Founder Lightning Talk  
 **Lessons from Building Software for CPA Firms**
 
@@ -76,6 +76,8 @@ Topics may include:
 
 ## 10:40 – 11:00 AM
 ### Challenge Briefing: MaRe (Health & Wellness Business Partner)
+
+**Speakers:** Marianna & Rebecca (MaRe)
 
 Participants will:
 
@@ -94,7 +96,7 @@ Participants will:
 ---
 
 ## 11:00 AM – 12:00 PM
-### Team Formation & Idea Validation
+### Hack Starts: Team Formation & Idea Validation
 
 Participants will:
 
@@ -117,7 +119,7 @@ Teams begin developing:
 ---
 
 ## 11:30 AM – 12:00 PM
-### Lunch Break (Rolling Support Available)
+### Lunch Break
 
 Optional support includes:
 
