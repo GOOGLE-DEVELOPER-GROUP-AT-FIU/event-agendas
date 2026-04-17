@@ -1,64 +1,49 @@
-# Event Agenda  
-## Pulse Foundry Miami × Hack University × Google Developer Group @ FIU  x Vercel
-### AI Hackathon with MaRe x MaRe, a real health & wellness business
-#
+# Event Agenda
 
-**Location:** The DOCK Miami  
+## Pulse Foundry Miami × Hack University × Google Developer Group @ FIU × Vercel
+### AI Hackathon with MaRe — A Real Health & Wellness Business Partner
+
+**Location:** The DOCK Miami / The LAB Miami  
 **Date:** April 19  
-**Time:** 10:00 AM – 6:00 PM EST  
+**Time:** 9:30 AM – 5:00 PM EST  
 
-> **Note:** Times and activities may change slightly depending on event flow and speaker availability.
+**Register Here:**  
+https://luma.com/3in7vwyo
+
+> **Note:** Times and activities may adjust slightly depending on event flow and speaker availability.  
+> **Parking:** Limited **$10 parking vouchers** are available. Please pick one up during **check-in after registration verification**. Vouchers are **first-come, first-served**.
 
 ---
 
-## 10:00 – 10:30 AM  
+## 9:30 – 10:00 AM
 ### Check-in & Networking
 
-- Participant arrival and badge check-in  
-- Team formation begins  
-- Meet organizers, mentors, and community members  
-- Coffee and refreshments available  
+- Participant arrival and badge check-in
+- Parking voucher pickup (limited quantity)
+- Coffee and refreshments available
+- Meet organizers, mentors, and community members
 
 ---
 
-## 10:30 – 10:50 AM  
+## 10:00 – 10:20 AM
 ### Welcome & Opening Remarks
 
 **Hosted by**
 
-- Pulse Foundry Miami  
-- Hack University  
-- Google Developer Group @ FIU  
+- Pulse Foundry Miami
+- Hack University
+- Google Developer Group @ FIU
 
 **Topics**
 
-- Event goals  
-- Hackathon structure  
-- Judging criteria  
+- Event goals
+- Hackathon structure
+- Judging criteria
 - Available resources (mentors and credits)
 
 ---
 
-## 10:50 – 11:20 AM  
-### Challenge Briefing: MaRe (Health & Wellness Business)
-
-Participants will:
-
-- Learn the business context  
-- Explore operational challenges  
-- Identify AI solution opportunities  
-- Ask live questions to the partner team  
-
-**Focus Areas**
-
-- Workflow automation  
-- Customer engagement  
-- Analytics insights  
-- Revenue optimization tools  
-
----
-
-## 11:20 – 11:35 AM  
+## 10:20 – 10:30 AM
 ### Lightning Talk  
 **Building AI Solutions that Drive Business Value**
 
@@ -68,117 +53,136 @@ Former Head of Business Development, Cadre AI
 
 Topics may include:
 
-- Translating AI into EBITDA impact  
-- Identifying high-ROI automation targets  
-- Designing deployable solutions for real businesses  
+- Translating AI into measurable business impact
+- Identifying high-ROI automation opportunities
+- Designing deployable solutions for real organizations
 
 ---
 
-## 11:35 – 11:50 AM  
+## 10:30 – 10:40 AM
 ### Founder Lightning Talk  
 **Lessons from Building Software for CPA Firms**
 
 **Speaker:** Fifi Siddiqui  
 Founder, Maxed
 
-Topics:
+Topics may include:
 
-- Consulting to product transitions  
-- Building as a solo technical founder  
-- Designing tools businesses actually adopt  
+- Transitioning from consulting to product development
+- Building as a solo technical founder
+- Designing tools businesses actually adopt
 
 ---
 
-## 11:50 AM – 12:00 PM  
+## 10:40 – 11:00 AM
+### Challenge Briefing: MaRe (Health & Wellness Business Partner)
+
+Participants will:
+
+- Learn the business context
+- Explore operational challenges
+- Identify AI solution opportunities
+- Ask live questions to the partner team
+
+**Focus Areas**
+
+- Workflow automation
+- Customer engagement
+- Analytics insights
+- Revenue optimization tools
+
+---
+
+## 11:00 AM – 12:00 PM
 ### Team Formation & Idea Validation
 
-Participants:
+Participants will:
 
-- Finalize teams  
-- Select challenge direction  
-- Validate ideas with mentors  
-
----
-
-## 12:00 – 2:30 PM  
-### Build Session #1
+- Finalize teams
+- Select challenge direction
+- Validate ideas with mentors
 
 Teams begin developing:
 
-- Prototypes  
-- AI workflows  
-- Integrations  
-- UI concepts  
-- Deployment pipelines  
+- Prototypes
+- AI workflows
+- Integrations
+- UI concepts
+- Deployment pipelines
 
-Mentors available throughout the session.
+**Sponsor resources available**
 
-Sponsor resources available:
-
-- Vercel deployment credits  
-- AI tooling guidance  
-- Architecture support  
+- Vercel deployment credits
 
 ---
 
-## 2:30 – 3:00 PM  
-### Lunch Break + Mentor Office Hours
+## 11:30 AM – 12:00 PM
+### Lunch Break (Rolling Support Available)
 
 Optional support includes:
 
-- Product validation feedback  
-- Architecture guidance  
-- Pitch coaching  
+- Product validation feedback
+- Architecture guidance
+- Pitch coaching
 
 ---
 
-## 3:00 – 4:45 PM  
-### Final Build Sprint
+## 12:00 – 3:00 PM
+### Open Build Session
+
+Teams continue working on:
+
+- Functional demos
+- Deployment workflows
+- AI integrations
+- Pitch preparation
+
+Mentors available throughout the session.
+
+---
+
+## 3:00 – 3:45 PM
+### Final Build Sprint & Submission Deadline
 
 Teams finalize:
 
-- Working demo  
-- Slides (optional)  
-- Deployment link  
-- Presentation narrative  
+- Working demo
+- Slides (optional)
+- Deployment link
+- Presentation narrative
+
+**Submission includes**
+
+- Demo link
+- Repository
+- Pitch overview
 
 ---
 
-## 4:45 – 5:00 PM  
-### Project Submission Deadline
-
-Teams submit:
-
-- Demo link  
-- Repository  
-- Pitch overview  
-
----
-
-## 5:00 – 5:45 PM  
+## 4:00 – 4:30 PM
 ### Team Demo Presentations
 
 Each team receives:
 
-- 2-minute demo  
-- 1-minute Q&A  
+- 2-minute demo
+- 1-minute Q&A
 
 **Evaluation Criteria**
 
-- Real-world usefulness  
-- AI integration quality  
-- Feasibility  
-- Clarity of pitch  
-- Business impact potential  
+- Real-world usefulness
+- AI integration quality
+- Feasibility
+- Clarity of pitch
+- Business impact potential
 
 ---
 
-## 5:45 – 6:00 PM  
-### Awards, Opportunities & Closing
+## 4:30 – 5:00 PM
+### Awards, Opportunities & Closing Networking
 
 Winning teams receive:
 
-- Opportunity to consult with MaRe  
-- Introductions to professionals across leading AI companies  
-- Sponsor platform credits  
-- Closing group photo and networking
+- Opportunity to consult with MaRe
+- Introductions to professionals across leading AI organizations
+- Sponsor platform credits
+- Closing group photo and networking session
