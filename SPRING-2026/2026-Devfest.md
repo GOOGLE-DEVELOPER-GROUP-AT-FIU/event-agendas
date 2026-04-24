@@ -116,57 +116,20 @@ No prior hackathon experience required — beginners are welcome.
 <details open>
 <summary><strong>📅 Timeline</strong></summary>
 
+April 24, 2026
 | Time (EDT) | Activity | Details | Location |
 |-----------|----------|---------|----------|
-| 09:30 AM | Registration & Check-In | On-site check-in | PG6 |
-| 10:00 AM | Opening Ceremony | Welcome & kickoff | PG6 |
+| 09:30 AM | Registration & Check-in | On-site Check-in + Digital Badge Activation, Activate participant perks, Networking and welcome session | PG6 |
+| 10:00 AM | Opening Ceremony | Event kickoff, Agenda walkthrough, Sponsor recognition, Badge + perks instructions  | PG6 |
 | 10:30 AM | Start Hacking | Build session begins | PG6 |
+| 10:45 – 11:30 AM | Keynote | The Future of AI & Agentic Systems, Topics include: Google Gemini ecosystem, Vertex AI workflows, Agentic AI architecture, Student pathways into AI careers | PG6 |
+| 11:30 AM – 12:15 PM | Workshop 1 | Build with Gemini APIs, Hands-on session covering: Prompt engineering basics, Multimodal workflows, Integrating Gemini into applications | PG6 |
+| 10:00 AM | Opening Ceremony | Welcome & kickoff | PG6 |
 | 12:30 PM | Midpoint Check-In | Progress + mentoring | PG6 |
-| 02:30 PM | Workshop | AI & Product Development | PG6 |
-| 04:30 PM | Submission Deadline | Projects due | Online Portal |
-| 04:30–05:00 PM | Demos & Judging | Presentations | PG6 |
+| 01:00 PM– 03:15 PM | Keynote | FamFriday | PG6 |
+| 04:00 PM | Submission Deadline | Projects due | Online Portal |
+| 04:00–05:00 PM | Demos & Judging | Presentations | PG6 |
 | 05:00 PM | Closing Ceremony | Awards & wrap-up | PG6 |
-
-</details>
-
----
-
-<details>
-<summary><strong>💻 Tracks</strong></summary>
-
-Luxury AI Growth Engine Challenge
-
-Build a platform that helps scale a luxury brand while maintaining high-end personalization.
-
-Sample project directions:
-
-- Identify high-revenue salons ($1M+) and rank them based on compatibility  
-- Generate personalized outreach using industry-specific language  
-- Create AI systems that simulate business growth strategies  
-
----
-
-AI Content Generation & Brand Scaling
-
-Design tools that generate high-quality, brand-consistent content at scale.
-
-Sample project directions:
-
-- Generate 50+ pieces of weekly content (shorts, blogs, assets)  
-- Maintain luxury tone and vocabulary  
-- Optimize content for AI search visibility  
-
----
-
-B2B Intelligence & Automation Systems
-
-Build systems that automate discovery, outreach, and ROI calculation.
-
-Sample project directions:
-
-- Develop prospecting engines for business discovery  
-- Create ROI calculators for partners  
-- Automate workflows for business development  
 
 </details>
 
@@ -191,14 +154,18 @@ Sample project directions:
 
 <details open>
 <summary><strong>📅 Timeline</strong></summary>
-
+April 24, 2026
 | Time (EDT) | Activity | Details | Location |
 |-----------|----------|---------|----------|
+| 09:30 AM | Registration & Check-in | Virtual Check-in + Digital Badge Activation, Activate participant perks, Networking and welcome session | PG6 |
 | 09:45 AM | Zoom Opens | Access available | Zoom |
-| 10:00 AM | Opening Ceremony | Welcome & kickoff | Online |
-| 10:30 AM | Start Hacking | Build session begins | Online |
-| 12:30 PM | Midpoint Check-In | Progress + mentoring | Online |
-| 02:30 PM | Workshop | AI & Product Development | Online |
+| 10:00 AM | Opening Ceremony | Event kickoff, Agenda walkthrough, Sponsor recognition, Badge + perks instructions  | PG6 |
+| 10:30 AM | Start Hacking | Build session begins | PG6 |
+| 10:45 – 11:30 AM | Keynote | The Future of AI & Agentic Systems, Topics include: Google Gemini ecosystem, Vertex AI workflows, Agentic AI architecture, Student pathways into AI careers | PG6 |
+| 11:30 AM – 12:15 PM | Workshop 1 | Build with Gemini APIs, Hands-on session covering: Prompt engineering basics, Multimodal workflows, Integrating Gemini into applications | PG6 |
+| 10:00 AM | Opening Ceremony | Welcome & kickoff | PG6 |
+| 12:30 PM | Midpoint Check-In | Progress + mentoring | PG6 |
+| 01:00 PM– 03:15 PM | Keynote | FamFriday | PG6 |
 
 Virtual Asynchronous. April 29, 7:00 AM - 11:59 PM.
 | Time (EDT) | Activity | Details | Location |
