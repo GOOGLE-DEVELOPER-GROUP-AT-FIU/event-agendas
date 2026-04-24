@@ -9,6 +9,8 @@
 <h1 align="center">DevFest + AI Hackathon — Spring 2026</h1>
 <h3 align="center"><em>AI • Innovation • Luxury Growth • Automation</em></h3>
 <h1 align="center">Event Agenda</h1>
+<h1 align="center">Session A - In person with a $150 USD prize. April 24, 10:00 AM - 5:00 PM.</h1>
+<h1 align="center">Session B - Virtual Asynchronous. April 24 - April 29, 10:00 AM - 11:45 PM.</h1>
 
 <details>
 <summary><h2> FAQ (Frequently Asked Questions) </h2></summary>
@@ -68,7 +70,7 @@ No prior hackathon experience required — beginners are welcome.
 | 📅 Date | **Friday, April 24, 2026 (EDT)** |
 | ⏱ Duration | **7 Hours** |
 | 🏫 Location | **Florida International University (Main Campus)** |
-| 📍 Room | **PG6 — Rooms 105 & 144** |
+| 📍 Room | **PG6 — Rooms 106 & 144** |
 | 👥 Team Size | **1–4 participants (solo allowed)** |
 | 🏗 Format | **Hybrid Hackathon (In-Person + Virtual)** |
 | 🌎 Time Zone | Eastern Time (EDT) |
@@ -197,9 +199,12 @@ Sample project directions:
 | 10:30 AM | Start Hacking | Build session begins | Online |
 | 12:30 PM | Midpoint Check-In | Progress + mentoring | Online |
 | 02:30 PM | Workshop | AI & Product Development | Online |
-| 04:30 PM | Submission Deadline | Projects due | Online Portal |
-| 04:30–05:00 PM | Demos & Judging | Presentations | Online |
-| 05:00 PM | Closing Ceremony | Awards & wrap-up | Online |
+
+Virtual Asynchronous. April 29, 7:00 AM - 11:59 PM.
+| Time (EDT) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| 11:45 PM | Submission Deadline | Projects due | Online Portal |
+
 
 </details>
 
