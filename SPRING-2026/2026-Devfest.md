@@ -116,8 +116,8 @@ No prior hackathon experience required — beginners are welcome.
 <details open>
 <summary><strong>📅 Timeline</strong></summary>
 
-April 24, 2026
-| Time (EDT) | Activity | Details | Location |
+
+| Time (EDT) April 24, 2026 | Activity | Details | Location |
 |-----------|----------|---------|----------|
 | 09:30 AM | Registration & Check-in | On-site Check-in + Digital Badge Activation, Activate participant perks, Networking and welcome session | PG6 |
 | 10:00 AM | Opening Ceremony | Event kickoff, Agenda walkthrough, Sponsor recognition, Badge + perks instructions  | PG6 |
@@ -154,8 +154,9 @@ April 24, 2026
 
 <details open>
 <summary><strong>📅 Timeline</strong></summary>
-April 24, 2026
-| Time (EDT) | Activity | Details | Location |
+  
+
+| Time (EDT) April 24, 2026 | Activity | Details | Location |
 |-----------|----------|---------|----------|
 | 09:30 AM | Registration & Check-in | Virtual Check-in + Digital Badge Activation, Activate participant perks, Networking and welcome session | PG6 |
 | 09:45 AM | Zoom Opens | Access available | Zoom |
